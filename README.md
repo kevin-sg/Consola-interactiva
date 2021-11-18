@@ -3,8 +3,8 @@
 Aplicacion interactiva que te permitira Crear, Leer,
 Actualizar y eliminar tareas (CRUD).
 
-![Alt text](./screenshot/console-tareas.jpg?raw=true "Optional Title")
-
-# Iniciar consola
+Iniciar consola:
 
 $node app.js
+
+![Alt text](./screenshot/console-tareas.jpg?raw=true "Optional Title")
