@@ -11,7 +11,6 @@ const {
 
 const Tareas = require("./models/tareas");
 
-// File 5 -> clase 11
 const main = async () => {
 	let opt = "";
 	const tareas = new Tareas();
